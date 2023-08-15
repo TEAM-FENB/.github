@@ -5,10 +5,13 @@
   <p style="font-weight: bold;">외국어가 낯선 사람들을 위한 신발 쇼핑몰입니다.</p>
 </div>
 
-## 데모
-[👉 486 신발 쇼핑몰 바로가기](https://486-shoe.shop/)
+## 링크
+[👉 486 신발 쇼핑몰 데모](https://486-shoe.shop/)
 
-<br>
+[486 신발 쇼핑몰 Client GitHub](https://github.com/TEAM-FENB/FENB_SHOPPING_MALL_EXTRA)
+
+[486 신발 쇼핑몰 Server GitHub](https://github.com/TEAM-FENB/FENB_SHOPPING_MALL_EXTRA_SERVER)
+
 <br>
 
 ## 🤔 기획 의도
@@ -89,7 +92,7 @@
   - 장바구니 상품 삭제
 
 ### 결제 페이지
-  - 쿠폰 유효기간 확인, 선택 가능
+  - 신규 유저 쿠폰(신규가입 후 30일 이내), 상시 제공 쿠폰 발급
   - 기본 배송지 변경 및 배송지 추가
 
 ### 결제완료 페이지
