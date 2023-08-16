@@ -1,8 +1,8 @@
 # 👟 486-shoe.shop
 
 <div align="center">
-  <img src="https://github.com/TEAM-FENB/.github/assets/88726990/69e5b8b2-8e83-4dea-9768-f2f1fee5bab5" />
-  <p style="font-weight: bold;">외국어가 낯선 사람들을 위한 신발 쇼핑몰입니다.</p>
+  <img width="750" alt="FENB" src="https://github.com/TEAM-FENB/.github/assets/104312167/4357ffda-88b0-4ef0-b9a1-1296bfbe913c">
+  <h3 style="font-weight: bold;">외국어가 낯선 사람들을 위한 신발 쇼핑몰입니다.</h3>
 </div>
 
 ## 링크
