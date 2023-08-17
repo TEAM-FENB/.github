@@ -36,6 +36,7 @@
 
 |                                    김경우                                    |                                    김경재                                    |                                    이동규                                    |                                 최수민                                 |
 | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| 프론트엔드 | 프론트엔드 | 프론트엔드 | 프론트엔드 |
 |                [@KimKyungWoo94](https://github.com/KimKyungWoo94)                |                  [@GitHub-KJKim](https://github.com/GitHub-KJKim)                   |             [@tenenger7125](https://github.com/tenenger7125)              |             [@sumin9918](https://github.com/sumin9918)         |
 | <img src="https://avatars.githubusercontent.com/u/60132428?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/106083037?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/88726990?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/104312167?v=4" width="100"> |
 
